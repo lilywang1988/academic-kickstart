@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-My name is Lili Wang (汪丽丽), a Ph.D. candidate in the Department of Biostatistics at the University of Michigan School of Public Health. I am currently working on survival models under the supervision of Dr. Douglas E. Schaubel. 
+My name is Lili Wang, a Ph.D. candidate in the Department of Biostatistics at the University of Michigan School of Public Health. I am currently working on survival models under the supervision of Dr. Douglas E. Schaubel. 
 
 My primary research interest has been developing novel methods and their software for analyzing complex failure time data, e.g., alternating recurrent events, competing risks, and hierarchically clustered events. 
 
