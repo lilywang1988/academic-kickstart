@@ -70,14 +70,14 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+#- Researchers
+#- Visitors
 ---
 
-My name is Lili Wang, a Ph.D. candidate in the Department of Biostatistics at the University of Michigan School of Public Health. I am currently working on survival models under the supervision of Dr. Douglas E. Schaubel. 
+I'm a Ph.D. candidate in Biostatistics at the University of Michigan. My thesis advisors are Prof. Douglas E. Schaubel and Prof. Peter Xuekun Song.  
 
-My primary research interest has been developing novel methods and their software for analyzing complex failure time data, e.g., alternating recurrent events, competing risks, and hierarchically clustered events. 
+My research topics include developing novel methods and their software for analyzing clustered event data, like alternating recurrent events, competing risks, and events with hierarchical structures.  
 
-Moreover, I am working as a research assistant for the University of Michigan Kidney Epidemiology and Cost Center. I actively participated in developing methods to monitor the performance of dialysis facilities by tracking their real-time mortality, readmission and hospitalization outcomes. 
+Moreover, as a research assistant for the University of Michigan Kidney Epidemiology and Cost Center (KECC). I am working on monitoring charts to track performance of dialysis facilities according to the mortality, readmission and hospitalizations.  
 
-Recently, I started to study regression trees and causal inference to optimize treatment assignments in observational studies. 
+I am also passionate about recent progresses in machine learning methods and causal inference, and their increasing use in event data analysis. 
