@@ -74,7 +74,7 @@ user_groups:
 #- Visitors
 ---
 
-I'm a Ph.D. candidate in Biostatistics at the University of Michigan. My thesis advisors are Prof. Douglas E. Schaubel and Prof. Peter Xuekun Song.  
+I'm a Ph.D. candidate in Biostatistics at the University of Michigan. My thesis advisors are [Prof. Douglas E. Schaubel](https://sph.umich.edu/faculty-profiles/schaubel-douglas.html) and [Prof. Peter Xuekun Song](http://www.umich.edu/~songlab/people.html).  
 
 My research topics include developing novel methods and their software for analyzing clustered event data, like alternating recurrent events, competing risks, and events with hierarchical structures.  
 
