@@ -41,8 +41,10 @@ date_format = "Jan 2006"
   date_end = "2019-08-23"
   description = """
  * Worked on Weighted log-rank test in [interim analysis (IA)](https://en.wikipedia.org/wiki/Interim_analysis):
+
   * Asymptotic properties for different weights at different time points
   * Focus on piece-wise exponential survival functions for non-proportional hazards
+
  * Developed an R package [`IAfrac`](https://github.com/lilywang1988/IAfrac) for [sample size calculation](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.1609), [information fraction estimation](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.1760), and correlation matrix of the MaxCombo statistic in IA
 
 """
