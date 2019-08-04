@@ -42,9 +42,9 @@ links:
 url_pdf: https://cdn.elifesciences.org/articles/01584/elife-01584-v1.pdf
 #url_code: '#'
 #url_dataset: '#'
-url_poster: '20130828 Poster directed evolution of Spy.pdf'
+url_poster: 'content/post/super_spy/poster.pdf'
 #url_project: ''
-url_slides: 'Legend of Super Spy_20140110 Lab meeting_final.pptx'
+url_slides: 'content/slides/super_spy/slides.pptx'
 #url_source: '#'
 #url_video: '#'
 
@@ -61,14 +61,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- super_spy
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: super_spy
 ---
 
 #{{% alert note %}}
