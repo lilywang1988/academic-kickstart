@@ -1,9 +1,19 @@
 ---
-title: "An example conference paper"
+title: "Synthetic Clonal Reproduction Through Seeds"
 authors:
+- Mohan PA Marimuthu
+- Sylvie Jolivet
+- Maruthachalam Ravi
+- Lucie Pereira
+- Jayeshkumar N Davda
+- Laurence Cromer
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Fabien Nogué
+- Simon WL Chan
+- Imran Siddiqi
+- Raphaël Mercier
+
+date: "2011-02-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +26,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *American Association for the Advancement of Science*
+publication_short: In *Science*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Cloning through seeds has potential revolutionary applications in agriculture, because it would allow vigorous hybrids to be propagated indefinitely. However, asexual seed formation or apomixis, avoiding meiosis and fertilization, is not found in the major food crops. To develop de novo synthesis of apomixis, we crossed Arabidopsis MiMe and dyad mutants that produce diploid clonal gametes to a strain whose chromosomes are engineered to be eliminated after fertilization. Up to 34% of the progeny were clones of their parent, demonstrating the conversion of clonal female or male gametes into seeds. We also show that first-generation cloned plants can be cloned again. Clonal reproduction through seeds can therefore be achieved in a sexual plant by manipulating two to four conserved genes.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac # convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -30,20 +40,20 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+  url: https://science.sciencemag.org/content/331/6019/876
+#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Science**](https://science.sciencemag.org/content/331/6019/876/tab-figures-data'
   focal_point: ""
   preview_only: false
 
