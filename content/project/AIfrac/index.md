@@ -4,7 +4,7 @@ summary:
 tags:
 - Recurrent events
 - Frailty models
-date: "2019-08-4T00:00:00Z"
+date: "2019-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
