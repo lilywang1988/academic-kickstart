@@ -1,6 +1,6 @@
 ---
-title: Internal Project
-summary: Directed Evolution of a Small Chaperone Spheroplast Protein Y.
+title: Directed Evolution of a Small Chaperone Spheroplast Protein Y.
+summary: 
 tags:
 - Directed Evolution
 - Molecular Biology

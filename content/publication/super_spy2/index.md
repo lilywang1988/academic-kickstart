@@ -1,21 +1,25 @@
 ---
-title: "Super Spy variants implicate flexibility in chaperone action"
+title: "Visualizing chaperone-assisted protein folding"
 authors:
-- Shu Quan
-- admin
-- Evgeniy V Petrotchenko
-- Karl AT Makepeace
 - Scott Horowitz
-- Jianyi Yang
-- Yang Zhang
-- Christoph H Borchers
+- Loïc Salmon
+- Philipp Koldewey
+- Logan S Ahlstrom
+- Raoul Martin
+- Shu Quan
+- Pavel V Afonine
+- Henry van den Bedem
+- admin
+- Qingping Xu
+- Raymond C Trievel
+- Charles L Brooks III
 - James CA Bardwell
 
-date: "2014-02-04T00:00:00Z"
+date: "2016-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2016-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,10 +28,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *eLife Sciences Publications Limited*
-publication_short: In *Elife*
+publication: In *Nature Publishing Group*
+publication_short: In *Nature structural & molecular biology*
 
-abstract: Experimental study of the role of disorder in protein function is challenging. It has been proposed that proteins utilize disordered regions in the adaptive recognition of their various binding partners. However apart from a few exceptions, defining the importance of disorder in promiscuous binding interactions has proven to be difficult. In this paper, we have utilized a genetic selection that links protein stability to antibiotic resistance to isolate variants of the newly discovered chaperone Spy that show an up to 7 fold improved chaperone activity against a variety of substrates. These “Super Spy” variants show tighter binding to client proteins and are generally more unstable than is wild type Spy and show increases in apparent flexibility. We establish a good relationship between the degree of their instability and the improvement they show in their chaperone activity. Our results provide evidence for the importance of disorder and flexibility in chaperone function.
+abstract: Challenges in determining the structures of heterogeneous and dynamic protein complexes have greatly hampered past efforts to obtain a mechanistic understanding of many important biological processes. One such process is chaperone-assisted protein folding. Obtaining structural ensembles of chaperone–substrate complexes would ultimately reveal how chaperones help proteins fold into their native state. To address this problem, we devised a new structural biology approach based on X-ray crystallography, termed residual electron and anomalous density (READ). READ enabled us to visualize even sparsely populated conformations of the substrate protein immunity protein 7 (Im7) in complex with the Escherichia coli chaperone Spy, and to capture a series of snapshots depicting the various folding states of Im7 bound to Spy. The ensemble shows that Spy-associated Im7 samples conformations ranging from unfolded to partially folded to native-like states and reveals how a substrate can explore its folding landscape while being bound to a chaperone.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac # convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,13 +42,13 @@ featured: true
 
 links:
 - name: Custom Link
-#  url: https://science.sciencemag.org/content/331/6019/876
-url_pdf: https://cdn.elifesciences.org/articles/01584/elife-01584-v1.pdf
+  url: https://www.nature.com/articles/nsmb.3237
+#url_pdf: https://cdn.elifesciences.org/articles/01584/elife-01584-v1.pdf
 #url_code: '#'
 #url_dataset: '#'
-url_poster: '20130828 Poster directed evolution of Spy.pdf'
+#url_poster: ' '
 #url_project: ''
-url_slides: 'Legend of Super Spy_20140110 Lab meeting_final.pptx'
+#url_slides: ' '
 #url_source: '#'
 #url_video: '#'
 
@@ -61,14 +65,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- content/project/super_spy
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 #{{% alert note %}}
