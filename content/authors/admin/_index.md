@@ -18,7 +18,7 @@ organizations:
   url: "https://umich.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include recurrent events, frailty models, survival analysis, causal inference, control charts; the data I am interested to work on include regular scale clinical data, national/global databases, and medical device data. 
+bio: PhD student in Biostatistics, University of Michigan. 
 
 interests:
 - Recurrent/clustered events
@@ -41,9 +41,6 @@ education:
     institution: Zhejiang University
     year: 2011
 
-Awards:
-- sss
-- ddd
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
