@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Biostatistics
     institution: University of Michigan
-    year: 2020(expected)
+    year: 2020 (expected)
   - course: M.Sc, in Biostatistics
     institution: University of Michigan
     year: 2016
