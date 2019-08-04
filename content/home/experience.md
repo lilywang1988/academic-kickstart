@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Research Assistant"
   company = " Kidney Epidemiology and Cost Center, University of Michigan (UM-KECC)"
@@ -29,7 +30,7 @@ date_format = "Jan 2006"
  *  Developed, implemented and evaluated the statistical methods used in the project.
  * Supported the group by troubleshooting the codes, validating data, preparing quarterly reports, and presenting to the group. 
 
-  """
+ """
 
 [[experience]]
   title = "Oncology Intern"
@@ -37,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "https://www.sanofi.us/"
   location = "Bridgewater, New Jersey"
   date_start = "2019-06-03"
-  date_end = "2019-8-23"
+  date_end = "2019-08-23"
   description = """
  * Worked on Weighted log-rank test in [interim analysis (IA)](https://en.wikipedia.org/wiki/Interim_analysis):
   * Asymptotic properties for different weights at different time points
@@ -54,9 +55,10 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2015-12-31"
   description = """
- * Taught 2 sessions in Intro to [SAS Statistical Programming (Bios 605)](https://sph.umich.edu/biostat/course.php?courseID=BIOSTAT605)
- * Evaluated student assessments
+* Taught 2 sessions in Intro to [SAS Statistical Programming (Bios 605)](https://sph.umich.edu/biostat/course.php?courseID=BIOSTAT605)
+* Evaluated student assessments
 """
+
 
 [[experience]]
   title = "Research Assistant"
@@ -64,7 +66,7 @@ date_format = "Jan 2006"
   company_url = "https://lsa.umich.edu/mcdb"
   location = "Ann Arbor, Michigan"
   date_start = "2012-09-01"
-  date_end = "2014-4-31"
+  date_end = "2014-04-30"
   description = """
  * Directly evolved a small periplasmic chaperone Spy in *E. coli* using an antibiotic resistance linked bio-sensor
  * Identified 6 mutants with significantly enhanced performance in refolding substrate proteins
@@ -77,8 +79,9 @@ date_format = "Jan 2006"
   company_url = "https://lsa.umich.edu/mcdb"
   location = "Ann Arbor, Michigan"
   date_start = "2012-09-01"
-  date_end = "2014-4-31"
+  date_end = "2014-04-30"
   description = """
  * Led discussion sessions and labs ([Bio 172 and Bio 173](http://www.lsa.umich.edu/saa/publications/courseguide/fall/BIOLOGY.html)), evaluated student assessments, and hosted office hours  
 """
+
 +++
