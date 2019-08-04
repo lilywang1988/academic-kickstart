@@ -78,6 +78,6 @@ I'm a Ph.D. candidate in Biostatistics at the University of Michigan. My thesis 
 
 My research topics include developing novel methods and their software for analyzing clustered event data, like alternating recurrent events, competing risks, and events with hierarchical structures.  
 
-Moreover, as a research assistant for the University of Michigan Kidney Epidemiology and Cost Center (KECC). I am working on monitoring charts to track performance of dialysis facilities according to the mortality, readmission and hospitalizations.  
+Moreover, as a research assistant for the University of Michigan Kidney Epidemiology and Cost Center (KECC), I am working on monitoring charts to track performance of dialysis facilities according to the mortality, readmission and hospitalizations.  
 
 I am also passionate about recent progresses in machine learning methods and causal inference, and their increasing use in event data analysis. 
