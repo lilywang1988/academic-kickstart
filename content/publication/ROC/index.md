@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Investigative Dermatology*
-publication_short: In * Elsevier*
+publication_short: In *Journal of Investigative Dermatology*
 
 abstract: Cutaneous T cell lymphoma (CTCL) can have clinical and histological features resembling benign inflammatory dermatosis and can be difficult to diagnose. Very limited biomarkers are available for CTCL prognosis. We aimed to identify microRNA (miR) signatures to facilitate diagnostic and prognostic evaluations of CTCL. A cross-platform miR microarray identified 10 miRs that were differentially expressed between CTCL and benign inflammatory dermatosis patients. Subsequent reverse transcription polymerase chain reaction validation was used to generate a 5-miR–based diagnosing classifier, which showed high diagnostic accuracy in CTCL (area under the curve = 0.985 and 0.956 for training and testing set, respectively). Association between miR expressions and patient prognosis was studied. miR-155 and miR-200b were significantly associated with overall survival in CTCL patients, outperformed Ki-67. miR expressions were combined with Ki-67 to create a classifier for 5-year overall survival in CTCL patients. Our work provided miR signatures to facilitate CTCL diagnosis and prognosis with satisfying accuracy.
 

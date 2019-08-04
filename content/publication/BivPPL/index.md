@@ -2,7 +2,8 @@
 title: "Penalized Survival Models for the Analysis of Alternating Recurrent Event Data"
 authors:
 - admin
-- Robert Ford
+- Kevin He
+- Douglas E. Schaubel
 date: "2019-07-01T00:00:00Z"
 doi: ""
 
@@ -16,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Under Review*
-publication_short: In *Under Review*
+publication:  *Under Review*
+publication_short:  *Under Review*
 
 abstract: Recurrent event data are widely encountered in clinical and observational studies. Most methods for recurrent events treat the outcome as a point process and, as such, neglect any associated event duration. This generally leads to a less informative and potentially biased analysis. We propose a joint model for the recurrent event rate (of incidence) and duration. The two processes are linked through a bivariate normal frailty. For example, when the event is hospitalization, we can treat the time to admission and length-of-stay as two alternating recurrent events. In our method, the regression parameters are estimated through a penalized partial likelihood, and the variance-covariance matrix of the frailty is estimated through a recursive estimating formula. Simulation results demonstrate that our method provides accurate parameter estimation, with relatively fast computation time. We illustrate the methods through an analysis of hospitalizations among end-stage renal disease patients.
 
