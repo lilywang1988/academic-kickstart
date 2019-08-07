@@ -37,7 +37,7 @@ education:
   - course: M.Sc. in Molecular Cellular and Developmental Biology
     institution: University of Michigan
     year: 2014
-  - course: B.Sc. in Biological Science
+  - course: B.Sc. in Applied Biological Science
     institution: Zhejiang University
     year: 2011
 
