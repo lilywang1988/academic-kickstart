@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. 
+  - course: Ph.D. in Biostatistics
     institution: University of Michigan
     year: 2020 (expected)
-  - course: M.Sc.
+  - course: M.Sc. in Biostatistics
     institution: University of Michigan
     year: 2016
 
