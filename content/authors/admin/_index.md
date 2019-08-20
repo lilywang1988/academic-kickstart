@@ -28,18 +28,12 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Biostatistics
+  - course: Ph.D. 
     institution: University of Michigan
     year: 2020 (expected)
-  - course: M.Sc, in Biostatistics
+  - course: M.Sc.
     institution: University of Michigan
     year: 2016
-  - course: M.Sc. in Molecular Cellular and Developmental Biology
-    institution: University of Michigan
-    year: 2014
-  - course: B.Sc. in Applied Biological Science
-    institution: Zhejiang University
-    year: 2011
 
 
 # Social/Academic Networking
@@ -61,9 +55,9 @@ social:
   link: https://github.com/lilywang1988
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/Lili_Wang_CV_20190728.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/Lili_Wang_CV_20190728.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
