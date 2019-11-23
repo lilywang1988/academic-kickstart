@@ -23,6 +23,7 @@ bio: PhD student in Biostatistics, University of Michigan.
 interests:
 - Recurrent/clustered events
 - Mixed effect models
+- Accelerometer/Wearable device
 - Real-time monitoring using control charts
 - Causal inference
 
@@ -57,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 #- icon: cv
 #  icon_pack: ai
-#  link: files/Lili_Wang_CV_20190819.pdf
+#  link: files/Lili_Wang_CV_20191117.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

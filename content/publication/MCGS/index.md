@@ -1,10 +1,10 @@
 ---
-title: "Penalized Survival Models for the Analysis of Alternating Recurrent Event Data"
+title: "A Simulation-free Group Sequential Design with Max-combo Tests in the Presence of Non-proportional Hazards"
 authors:
 - admin
-- Kevin He
-- Douglas E. Schaubel
-date: "2019-07-01T00:00:00Z"
+- Xiaodong Luo
+- Cheng Zheng
+date: "2019-11-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,10 +17,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication:  In *Under Revision*
-publication_short:  In *Biometrics* (In press)
+publication:  In *arXiv Preprint* 
+publication_short:  In *Preprint* 
 
-abstract: Recurrent event data are widely encountered in clinical and observational studies. Most methods for recurrent events treat the outcome as a point process and, as such, neglect any associated event duration. This generally leads to a less informative and potentially biased analysis. We propose a joint model for the recurrent event rate (of incidence) and duration. The two processes are linked through a bivariate normal frailty. For example, when the event is hospitalization, we can treat the time to admission and length-of-stay as two alternating recurrent events. In our method, the regression parameters are estimated through a penalized partial likelihood, and the variance-covariance matrix of the frailty is estimated through a recursive estimating formula. Simulation results demonstrate that our method provides accurate parameter estimation, with relatively fast computation time. We illustrate the methods through an analysis of hospitalizations among end-stage renal disease patients.
+abstract: Non-proportional hazards (NPH) have been observed recently in many immuno-oncology clinical trials. Weighted log-rank tests (WLRT) with suitably chosen weights can be used to improve the power of detecting the difference of the two survival curves in the presence of NPH. However, it is not easy to choose a proper WLRT in practice when both robustness and efficiency are considered. A versatile maxcombo test was proposed to achieve the balance of robustness and efficiency and has received increasing attentions in both methodology development and application. However, survival trials often warrant interim analyses due to its high cost and long duration. The integration and application of maxcombo tests in interim analyses often require extensive simulation studies. In this paper, we propose a simulation-free approach for group sequential design with maxcombo test in survival trials. The simulation results support that the proposed approaches successfully control both the type I error rate and offer great accuracy and flexibility in estimating sample sizes, at the expense of light computation burden. Notably, our methods display a strong robustness towards various model misspecifications, and have been implemented in an R package for free access online.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac #convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,12 +33,12 @@ links:
 #- name: Custom Link
 #  url: http://example.org
 #url_pdf: '#'
-url_code: 'https://github.com/lilywang1988/BivPPL'
+url_code: 'https://github.com/lilywang1988/IAfrac'
 #url_dataset: '#'
 #url_poster: '#'
-#url_project: 'content/project/BivPPL'
+#url_project: 'content/project/MCGS'
 #url_slides: ''
-url_source: 'https://www.ncbi.nlm.nih.gov/pubmed/31535737'
+url_source: 'https://arxiv.org/abs/1911.05684'
 #url_video: '#'
 
 # Featured image
@@ -54,7 +54,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- BioPPL
+- MCGS
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
